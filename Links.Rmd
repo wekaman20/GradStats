@@ -17,3 +17,55 @@ output: html_document
 6. Check out my slightly older programming book that also introduces R [https://crumplab.github.io/programmingforpsych/](https://crumplab.github.io/programmingforpsych/)
 7. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
 
+8. You can also look up these links
+The easiest GitHub tutorial ever. For those who are not at ease with Git… | by Joos Korstanje | Towards Data Science 
+ 
+
+Introduction to Git and GitHub | Coursera 
+ 
+
+Free Git Tutorial - Intro to Git | Udemy 
+ 
+
+Git & GitHub - The Complete Git & GitHub Course | Udemy 
+ 
+
+An Intro to Git and GitHub for Beginners (Tutorial) 
+ 
+
+Online Courses - Anytime, Anywhere | Udemy 
+ 
+
+Git: Become an Expert in Git & GitHub in 4 Hours | Udemy 
+ 
+
+Creating a book manuscript using {bookdown} 
+ 
+
+Creating websites in R 
+ 
+
+Hosting an R Markdown Website on Github Pages 
+ 
+
+Add a new page to R Markdown Website 
+ 
+
+Tutorial: Intro to Git & GitHub for the R User · bcgov/bcgov-data-science-resources Wiki 
+ 
+
+How to upload your R code on GitHub: example with an R script on MacOS - Stats and R 
+ 
+
+Tutorial: Intro to Git & GitHub for the R User · bcgov/bcgov-data-science-resources Wiki 
+ 
+
+Gerke Lab | Using Netlify CMS with R Markdown, hosted on GitHub Pages 
+ 
+
+Chapter 7 Introduce yourself to Git | Happy Git and GitHub for the useR 
+ 
+
+The requested URL returned error: 403 Forbidden · Issue #39 · trilbymedia/grav-plugin-git-sync 
+
+https://www.youtube.com/watch?v=eWxxfttcMts&t=220s
