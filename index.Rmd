@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "SampleWebsite"
 output: html_document
 ---
 
@@ -18,6 +18,10 @@ output: html_document
 <div class="col-sm-6">
 
 # **My Lab Journal**
+
+Need to run this
+library(usethis)
+use_git_config(user.name = "apupythonprojects", user.email = "apupythonprojects@gmail.com")
 
 This is a template example for creating website. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
 
