@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "R Programming with Prof. Claster"
 navbar:
-  title: "MyLabJournal"
+  title: "R Programming with Prof. Claster"
   left:
     - text: "Home"
       href: index.html
