@@ -23,6 +23,19 @@ Need to run this
 library(usethis)
 use_git_config(user.name = "apupythonprojects", user.email = "apupythonprojects@gmail.com")
 
+It is also necessary if signing in for the first time to Github or to a new account to do the following.
+
+For Windows you can find the keys here:
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
+Next, remove the Github keys.
+In mac
+1-In Finder, search for the Keychain Access app.
+2In Keychain Access, search for github.com.
+3-Find the "internet password" entry for github.com.
+4-Edit or delete the entry accordingly.
+
+Don't forget to Build Website before Git operations
+
 This is a template example for creating website. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
 
 ## How to use
