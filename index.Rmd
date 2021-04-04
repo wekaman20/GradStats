@@ -46,8 +46,8 @@ Don't forget to Build Website before Git operations
   Students can replace this text with more fun things. People not in my lab can use this too.
 
 ## How to use
-
-1. fork the repo for this website and follow instructions on read me to get set up. [https://apupythonprojects.github.io/GradStats/](https://apupythonprojects.github.io/GradStats/)
+https://github.com/apupythonprojects/GradStats
+1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/apupythonprojects/GradStats](https://github.com/apupythonprojects/GradStats)
 
 2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://apupythonprojects.github.io/GradStats/Journal.html) for an example of what to do to get started learning R.
 
