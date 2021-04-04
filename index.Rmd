@@ -19,6 +19,12 @@ output: html_document
 
 # **My Lab Journal**
 
+
+
+Here are some instructions and notes on setting this up.
+Note. I have had problems with the Git features of RStudio. 
+Sometimes I make changes and the processes just hang there and nothing happens. I can't even shut down RStudio. Properly and if I shut it down, and re-open it the Git feature still seems to be running. To get everything to stop, I restart my whole computer and try again. It can be frustrating.
+
 Need to run this
 library(usethis)
 use_git_config(user.name = "apupythonprojects", user.email = "apupythonprojects@gmail.com")
@@ -36,15 +42,16 @@ In mac
 
 Don't forget to Build Website before Git operations
 
-This is a template example for creating website. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+  This is a template.
+  Students can replace this text with more fun things. People not in my lab can use this too.
 
 ## How to use
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. fork the repo for this website and follow instructions on read me to get set up. [https://apupythonprojects.github.io/GradStats/](https://apupythonprojects.github.io/GradStats/)
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://apupythonprojects.github.io/GradStats/Journal.html) for an example of what to do to get started learning R.
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. See the [links page](https://apupythonprojects.github.io/GradStats/Links.html) for lots of helpful links on learning R.
 
 4. Change everything to make it your own.
 
@@ -52,9 +59,9 @@ This is a template example for creating website. Students in Matt Crump's Human 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Claster Learning R](https://apupythonprojects.github.io)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+<a href = "https://apupythonprojects.github.io">
+![](images/logo1.png)
 </a>
 </div>

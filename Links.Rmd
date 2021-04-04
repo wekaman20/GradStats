@@ -12,12 +12,11 @@ output: html_document
 1. Google is great, Google your problem
 2. [Stackoverflow](https://stackoverflow.com) is great, google will often take you there because someone has already asked your question, and someone else has answered, usually many people have answered your question many ways.
 3. Danielle Navarro wrote a [free Psych Stats textbook using R](https://compcogscisydney.org/learning-statistics-with-r/), it's worth checking out (some of our textbook are based on Danielle's)
-4. I am currently writing another stats textbook (incorporating some of the above). You can read it while it's being made right here [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/), also check out the lab manual for more specific things about doing various stats in R (also in draft right now) [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/)
+4. I have written a book Mathematics and Programming for Machine Learning with R: From the Ground Up. You can purchase it here [https://www.amazon.com/gp/product/B08JHDCX9Y?pf_rd_r=363HP7AFW10KF1Z3J7YJ&pf_rd_p=6fc81c8c-2a38-41c6-a68a-f78c79e7253f&pd_rd_r=5070c28f-1639-4b78-860d-946327ba8ba6&pd_rd_w=mKq3i&pd_rd_wg=SuQ8M&ref_=pd_gw_unk](https://www.amazon.com/gp/product/B08JHDCX9Y?pf_rd_r=363HP7AFW10KF1Z3J7YJ&pf_rd_p=6fc81c8c-2a38-41c6-a68a-f78c79e7253f&pd_rd_r=5070c28f-1639-4b78-860d-946327ba8ba6&pd_rd_w=mKq3i&pd_rd_wg=SuQ8M&ref_=pd_gw_unk), also check out the lab manual for more specific things about doing various stats in R (also in draft right now) [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/)
 5. Daniell Navarro recently made this website for introducing R, it's great, check it out (also made using this R markdown process): [http://compcogscisydney.org/psyr/](http://compcogscisydney.org/psyr/)
-6. Check out my slightly older programming book that also introduces R [https://crumplab.github.io/programmingforpsych/](https://crumplab.github.io/programmingforpsych/)
-7. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+6. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
 
-8. You can also look up these links
+7. You can also look up these links
 The easiest GitHub tutorial ever. For those who are not at ease with Git… | by Joos Korstanje | Towards Data Science 
  
 
